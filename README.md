@@ -1,4 +1,3 @@
-# Academic-Curriculum-Mapping
 # 📚 Academic Curriculum Mapping  
 A web-based system designed to map academic curriculum outcomes, manage course data, and streamline the evaluation process.  
 This project integrates **React.js (frontend)**, **Python Flask (backend)**, and **SQL database** to provide an end-to-end solution for academic data management.
@@ -28,16 +27,16 @@ This project integrates **React.js (frontend)**, **Python Flask (backend)**, and
 ---
 
 ## 🗂 Project Structure
-Academic-Curriculum-Mapping/
-│── public/
-│── src/
-│── app.py
-│── db.sql
-│── package.json 
-│── package-lock.json
-│── node_modules.zip 
-│── .gitignore
 
+Academic-Curriculum-Mapping/
+├── public/                 
+├── src/                   
+├── app.py                 
+├── db.sql                  
+├── package.json           
+├── package-lock.json       
+├── node_modules.zip        
+└── .gitignore             
 
 ---
 
