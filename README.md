@@ -77,3 +77,8 @@ db.sql
 - Automatic mapping recommendations
 - Insights dashboard with charts
 - Export reports in PDF/CSV
+
+---
+
+## 👨‍💻 Author
+**Dev Patel**
