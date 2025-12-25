@@ -27,9 +27,8 @@ This project integrates **React.js (frontend)**, **Python Flask (backend)**, and
 ---
 
 ## 📂 Project Structure
-
+```
 Academic-Curriculum-Mapping/
-
 ├── public/                 
 ├── src/                   
 ├── app.py                 
@@ -39,7 +38,7 @@ Academic-Curriculum-Mapping/
 ├── node_modules.zip        
 ├── .gitignore   
 └── README.md
-
+```
 ---
 
 ## 🛠️ Technologies Used
